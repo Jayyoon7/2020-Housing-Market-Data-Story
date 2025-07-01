@@ -38,5 +38,3 @@ This project is accompanied by a reflective blog post that discusses:
 - The long-term impact of COVID-19 on housing behavior
 - Future directions for research and monitoring
 
-## 📁 Repository Structure
-
