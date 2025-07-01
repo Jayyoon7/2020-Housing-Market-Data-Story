@@ -26,8 +26,8 @@ The project visualizes key housing trends during the early pandemic period and s
 
 ## 📈 Dashboard Preview
 
-You can explore the full interactive Tableau dashboard here:  
-👉 [View Dashboard on Tableau Public](#) *(Insert your dashboard link)*
+You can explore the full interactive Tableau dashboard in the file:  
+2020 Housing Market Data Story.twbx
 
 ## 📝 Blog Summary
 
